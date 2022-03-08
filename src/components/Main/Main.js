@@ -1,19 +1,17 @@
 import React from 'react';
 import './Main.css';
 
-import background from '../../zodiac.jpeg';
-import 
+import background from '../../background.jpeg';
+import Signs from '../Signs/Signs';
 
 
-export default function main() {
+export default function Main() {
   return (
-    <main style={{ backgroundImage: `url(${background})`}>
+    <main style={{ backgroundImage: `url(${background})` }}>
 
       {signs.map((item) => (
-        <signs
-          key={item.name} {...item} 
-
-        />
+        <Signs
+          key={item.name} {...item} />
       ))}
 
     </main>
