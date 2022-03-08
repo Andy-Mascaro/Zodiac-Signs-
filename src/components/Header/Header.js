@@ -1,6 +1,6 @@
 import React from 'react';
-import '/.Header.css';
+import './Header.css';
 
 export default function Header(){
-  return <header>Andy Astrology</header>;
+  return <header>Andy Astrology Algorithm</header>;
 }

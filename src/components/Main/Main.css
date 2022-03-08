@@ -1,4 +1,10 @@
 main {
+
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 40px;
