@@ -2,7 +2,7 @@ import React from 'react';
 import './Main.css';
 import { zodiac } from '../../Data';
 import background from '../../background.jpeg';
-import Signs from '../Signs/Signs';
+import Signs from '../andy/Signs';
 
 
 export default function Main() {

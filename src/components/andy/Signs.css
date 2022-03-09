@@ -1,0 +1,12 @@
+.signs {
+    margin-bottom: 40px;
+    align-content: flex-start;
+    position: relative;
+    font-size: x-large;
+}
+
+.span{
+    font-size: x-large;
+    width: 300px;
+    padding: 20px
+}
