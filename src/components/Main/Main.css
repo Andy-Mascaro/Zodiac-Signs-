@@ -2,4 +2,5 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
     column-gap: 5vw;
+    columns: 300px 3;
   }
