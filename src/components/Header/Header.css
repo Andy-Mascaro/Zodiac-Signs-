@@ -1,0 +1,9 @@
+header {
+    color: var(--color5);
+    height: 70px;
+    background-color: var(--color3);
+    display: flex;
+    justify-content: center;
+    font-size: 3em ;
+  }
+  
